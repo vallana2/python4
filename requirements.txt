@@ -1,0 +1,6 @@
+flask
+pymongo
+requests
+beautifulsoup4
+lxml
+openpyxl
